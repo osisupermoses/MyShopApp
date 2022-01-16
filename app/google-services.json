@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "122967856474",
+    "project_id": "myshopapp-ed52a",
+    "storage_bucket": "myshopapp-ed52a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122967856474:android:332fe7043019a942b4cf63",
+        "android_client_info": {
+          "package_name": "com.osisupermoses.myshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122967856474-9tojh0of13upfpn6n69j6n1vbgru5o2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.osisupermoses.myshopapp",
+            "certificate_hash": "2b284493b6db9cf48657b8ef4238e1e85b28eda5"
+          }
+        },
+        {
+          "client_id": "122967856474-plmfbvcbpade0bv94e6g3in5ct25unke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3aqvhx6caG9jfgl2I_7H_wsdQjL2BrMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122967856474-plmfbvcbpade0bv94e6g3in5ct25unke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
